@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/apple-replica/static/css/main.317db04a.css",
-    "main.js": "/apple-replica/static/js/main.0d7aa8c5.js",
+    "main.css": "/apple-replica/static/css/main.f553bf86.css",
+    "main.js": "/apple-replica/static/js/main.24ede8aa.js",
     "static/js/453.7014eee3.chunk.js": "/apple-replica/static/js/453.7014eee3.chunk.js",
     "index.html": "/apple-replica/index.html",
-    "main.317db04a.css.map": "/apple-replica/static/css/main.317db04a.css.map",
-    "main.0d7aa8c5.js.map": "/apple-replica/static/js/main.0d7aa8c5.js.map",
+    "main.f553bf86.css.map": "/apple-replica/static/css/main.f553bf86.css.map",
+    "main.24ede8aa.js.map": "/apple-replica/static/js/main.24ede8aa.js.map",
     "453.7014eee3.chunk.js.map": "/apple-replica/static/js/453.7014eee3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.317db04a.css",
-    "static/js/main.0d7aa8c5.js"
+    "static/css/main.f553bf86.css",
+    "static/js/main.24ede8aa.js"
   ]
 }
